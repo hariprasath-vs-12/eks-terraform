@@ -261,11 +261,4 @@ git push -u origin main
 
 ---
 
-## 12. Next steps for practice
 
-- Install the **AWS Load Balancer Controller** and use Ingress instead of `LoadBalancer` services
-- Set up **IRSA** or **EKS Pod Identity** for pod-level AWS permissions
-- Add **Cluster Autoscaler** or **Karpenter**
-- Install **metrics-server**, Prometheus and Grafana
-- Move Terraform state to an **S3 backend** with DynamoDB locking
-- Deploy with **Helm** and set up a CI/CD pipeline (GitHub Actions)
